@@ -116,3 +116,5 @@ To https://github.com/ice017-git/devops-netology.git
 символ |/ — место ответвления ветки fix от общей истории.
 
 ## Коммит сделан через PyCharm
+
+Второй коммит через PyCharm.
